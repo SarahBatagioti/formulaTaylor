@@ -1,31 +1,4 @@
-'''
-def somatorio(x):
-    if x==1:
-        return 1
-    else:
-        return x + somatorio(x-1)
 
-while True:
-    x = int(input("Somatorio de 1 até: "))
-    print("Soma: ",somatorio(x) )
-
-n = 5
-def som(n):
-    if n==1:
-        return 1
-    else:
-        return n + som(n-1)
-
-print (som(n))
-
-for (var i; i < 10; i++){
-    console.log(i);
-}
-
-i = 1 #inicializador
-while i < 10: #verifica a condição
-    print(i) #o corpo, a ação
-    i += 2 #o passo de "incremento"
 '''
 
 # lógica 
@@ -62,3 +35,4 @@ ou seja, vai ficar no final:
 (-1)^0 * ( (r)^0 / (0)! ) + (-1)^1 * ( (r)^2 / (2)! ) + (-1)^2 * ( (r)^4 / (4)! ) + (-1)^3 * ( (r)^6 / (6!) ) + (-1)^4 * ( (r)^8 / (8)! ) + (-1)^5 * ( (r)^10 / (10! )
 
 
+'''
